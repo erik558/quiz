@@ -21,8 +21,8 @@ function App() {
           Learn React
         </a>
       </header> */}
-     {/* <Quiz /> */}
-     <Cikl />
+     <Quiz />
+     {/* <Cikl /> */}
 
       
     </div>
